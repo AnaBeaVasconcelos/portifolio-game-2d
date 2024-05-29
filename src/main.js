@@ -120,4 +120,4 @@ k.scene("main", async () => {
   });
 });
 
-k.go("main");
+k.go("main"); 
